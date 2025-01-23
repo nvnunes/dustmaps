@@ -91,7 +91,7 @@ satisfied:
 * :code:`scipy`
 * :code:`astropy`
 * :code:`h5py`
-* :code:`healpy`
+* :code:`astropy_healpix`
 * :code:`requests`
 * :code:`six`
 * :code:`progressbar2`
